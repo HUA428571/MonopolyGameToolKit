@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="transfer_choose_out">转账：选择转出方</string>
+    <string name="transfer_out_player1">转出：一号玩家\n请选择转入方</string>
+    <string name="transfer_out_player2">转出：二号玩家\n请选择转入方</string>
+    <string name="transfer_in_player1">转入：一号玩家\n请输入转账金额</string>
+    <string name="transfer_in_player2">转入：二号玩家\n请输入转账金额</string>
+    <string name="bank_to">银行  ->  </string>
+    <string name="bank_in">银行：</string>
+    <string name="destiny">命运</string>
+    <string name="player1">玩家\n1</string>
+    <string name="player2">玩家\n2</string>
+    <string name="player3">玩家\n3</string>
+    <string name="player4">玩家\n4</string>
+    <string name="roll">掷骰</string>
+    <string name="transfer">转账</string>
+    <string name="pay">支付</string>
+    <string name="bank">银行</string>
+</resources>

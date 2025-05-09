@@ -1,12 +1,30 @@
 <resources>
-    <string name="app_name">monopoly</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name" translatable="false">monopoly</string>
+    <string name="action_settings" translatable="false">Settings</string>
     <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="previous" translatable="false">Previous</string>
 
-    <string name="hello_first_fragment">Hello first fragment</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+
+    <string name="player1">PLAYER\n1</string>
+    <string name="player2">PLAYER\n2</string>
+    <string name="player3">PLAYER\n3</string>
+    <string name="player4">PLAYER\n4</string>
+
+    <string name="transfer_choose_out">Transfer: Choose the payer</string>
+    <string name="transfer_out_player1">Transfer out: Player 1\nPlease choose the payee</string>
+    <string name="transfer_out_player2">Transfer out: Player 2\nPlease choose the payee</string>
+    <string name="transfer_in_player1">Transfer in: Player 1\nPlease enter the amount</string>
+    <string name="transfer_in_player2">Transfer in: Player 2\nPlease enter the amount</string>
+    <string name="bank_to">Bank  ->  </string>
+    <string name="bank_in">Bank:</string>
+    <string name="destiny">Destiny</string>
+    <string name="roll">Roll</string>
+    <string name="transfer">Transfer</string>
+    <string name="pay">Pay</string>
+    <string name="bank">Bank</string>
 </resources>

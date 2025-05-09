@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="transfer_choose_out">Transfer: Choose the payer</string>
+    <string name="transfer_out_player1">Transfer out: Player 1\nPlease choose the payee</string>
+    <string name="transfer_out_player2">Transfer out: Player 2\nPlease choose the payee</string>
+    <string name="transfer_in_player1">Transfer in: Player 1\nPlease enter the amount</string>
+    <string name="transfer_in_player2">Transfer in: Player 2\nPlease enter the amount</string>
+    <string name="bank_to">Bank  ->  </string>
+    <string name="bank_in">Bank:</string>
+    <string name="destiny">Destiny</string>
+    <string name="player1">PLAYER\n1</string>
+    <string name="player2">PLAYER\n2</string>
+    <string name="player3">PLAYER\n3</string>
+    <string name="player4">PLAYER\n4</string>
+    <string name="roll">Roll</string>
+    <string name="transfer">Transfer</string>
+    <string name="pay">Pay</string>
+    <string name="bank">Bank</string>
+</resources>
